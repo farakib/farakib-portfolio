@@ -24,6 +24,7 @@ const about = {
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
+
 const skillsBar = [
   {
     name: "HTML5",
